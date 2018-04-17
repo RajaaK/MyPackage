@@ -1,3 +1,4 @@
+<<<<<<< 3579fc8434c0713a3901530ac921eec26227153d
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
@@ -65,3 +66,9 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
+=======
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+>>>>>>> MyPackage
